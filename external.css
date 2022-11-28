@@ -1,0 +1,26 @@
+span{
+    color: red;
+    border: 2px solid green;
+}
+
+.extra span{
+    color: inherit;
+}
+
+#myHeader{
+    background-color: greenyellow;
+    padding: 40px;
+    text-align: center;
+}
+
+body{
+    background-color: linen;
+}
+
+h1{
+    color: maroon;
+    margin-left: 40px;
+}
+
+li  {font-weight: bold; }
+li em   {text-decoration: underline;}
